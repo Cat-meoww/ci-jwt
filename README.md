@@ -1,4 +1,4 @@
-# CodeIgniter 4 Simple JWT Authicaton Template
+# CodeIgniter 4 Simple JWT Authentication Template
 
 Using `firebase/php-jwt`
 
